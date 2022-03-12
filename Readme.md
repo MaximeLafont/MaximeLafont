@@ -4,9 +4,9 @@ I am a student completing a double master's degree:
 
 <ul>
 
-● In Data Science and Artificial Intelligence at [Sherbrooke University](https://www.usherbrooke.ca)
+• In Data Science and Artificial Intelligence at [Sherbrooke University](https://www.usherbrooke.ca)
 
-● In Applied Mathematics and Computer science at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/)
+• In Applied Mathematics and Computer science at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/)
 
 </ul>
 
