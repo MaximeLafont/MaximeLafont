@@ -36,5 +36,5 @@ I am interested in all areas of data science, artificial intelligence and mathem
 
 📩 Contact me !
 
-[![GitHub](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/search/results/all/?keywords=ga%C3%ABtan%20lounes&origin=RICH_QUERY_SUGGESTION&position=0&searchId=446a2003-298c-4941-8ac8-f96cef74155d&sid=our) 
+[![GitHub](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-lafont-trevisan-9875a019a/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxime.lafont-trevisan@usherbrooke.ca)
